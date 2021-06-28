@@ -10,12 +10,4 @@ class MainActivity : AppCompatActivity() {
         //练习下submodule
     }
     //Test
-    //fdjafj;alfdafdaljfdaf;jd
-    //ddddd
-    //dfdfdfdf
-    
-    //cdcdcdcd
-    
-    
-    ///cdcdfjkfajfjdal;gjdl;ga
 }
